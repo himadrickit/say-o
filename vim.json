@@ -1,0 +1,9 @@
+{
+  "name": "Vim",
+  "id": "vim",
+  "url": "https://github.com/vim/vim-win32-installer/releases/download/v9.1.1455/gvim_9.1.1455_arm64.exe",
+  "version": "9.1.1455",
+  "type": "exe",
+  "installer": "nsis",
+  "silent": ""
+}

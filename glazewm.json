@@ -1,0 +1,9 @@
+{
+  "name": "GlazeWM",
+  "id": "glazewm",
+  "url": "https://github.com/glzr-io/glazewm/releases/download/v3.9.0/standalone-glazewm-v3.9.0-x64.msi",
+  "version": "3.9.0",
+  "type": "msi",
+  "silent": "/qn"
+}
+

@@ -1,0 +1,11 @@
+{
+  "name": "Zotero",
+  "id": "Zotero",
+  "version": "7",
+  "url": "https://www.zotero.org/download/client/dl?channel=release&platform=win-x64",
+  "type": "exe",
+  "installer": "nsis",
+  "silent": "/S",
+  "uninstaller": "C:\\Program Files\\pkg\\unins000.exe",
+  "untype": "nsis"
+}

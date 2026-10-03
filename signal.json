@@ -1,0 +1,8 @@
+{
+  "name": "Signal",
+  "id": "signal",
+  "url": "https://updates.signal.org/desktop/signal-desktop-win-8.29.0.exe",
+  "version": "8.29.0",
+  "type": "exe",
+  "silent": "/S"
+}

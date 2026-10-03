@@ -1,0 +1,11 @@
+{
+  "name": "Youtube Music",
+  "id": "ytmusic",
+  "version": "3.10.0",
+  "url": "https://github.com/th-ch/youtube-music/releases/download/v3.10.0/YouTube-Music-3.10.0.exe",
+  "type": "exe",
+  "installer": "nsis",
+  "silent": "/S",
+  "uninstaller": "C:\\Program Files\\pkg\\unins000.exe",
+  "untype": "nsis"
+}

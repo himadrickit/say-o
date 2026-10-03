@@ -1,0 +1,8 @@
+{
+  "name": "Jdownloader 2",
+  "id": "jdownloader",
+  "url": "https://installer.jdownloader.org/JD2SilentSetup_x64.exe",
+  "version": "",
+  "type": "exe",
+  "silent": "-q"
+}

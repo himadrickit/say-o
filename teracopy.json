@@ -1,0 +1,8 @@
+{
+  "name": "Teracopy",
+  "id": "teracopy",
+  "url": "https://codesector.com/files/teracopy3.17.exe",
+  "version": "3.17",
+  "type": "exe",
+  "silent": "/exenoupdates /exenoui /quiet /norestart"
+}

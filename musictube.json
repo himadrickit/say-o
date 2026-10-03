@@ -1,0 +1,11 @@
+{
+  "name": "Musictube",
+  "id": "musictube",
+  "version": "1.10",
+  "url": "https://flavio.tordini.org/files/musictube/musictube.exe",
+  "type": "exe",
+  "installer": "nsis",
+  "silent": "/S",
+  "uninstaller": "C:\\Program Files\\pkg\\unins000.exe",
+  "untype": "nsis"
+}

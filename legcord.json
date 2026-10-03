@@ -1,0 +1,9 @@
+{
+  "name": "Legcord",
+  "id": "legcord",
+  "url": "https://github.com/Legcord/Legcord/releases/download/v1.1.5/Legcord-1.1.5-win-ia32.exe",
+  "version": "1.1.5",
+  "type": "exe",
+  "installer": "nsis",
+  "silent": ""
+}

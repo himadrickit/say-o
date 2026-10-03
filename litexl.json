@@ -1,0 +1,9 @@
+{
+  "name": "Lite XL",
+  "id": "litexl",
+  "url": "https://github.com/lite-xl/lite-xl/releases/download/v2.1.8/LiteXL-v2.1.8-addons-x86_64-setup.exe",
+  "type": "exe",
+  "installer": "inno",
+  "silent": ""
+}
+

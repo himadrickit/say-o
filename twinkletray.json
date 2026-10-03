@@ -1,0 +1,8 @@
+{
+  "name": "Twinkle Tray",
+  "id": "twinkletray",
+  "url": "https://github.com/xanderfrangos/twinkle-tray/releases/download/v1.16.7/Twinkle.Tray.v1.16.7.exe",
+  "version": "1.16.7",
+  "type": "exe",
+  "silent": "/S"
+}

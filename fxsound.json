@@ -1,0 +1,8 @@
+{
+  "name": "Fxsound",
+  "id": "fxsound",
+  "url": "https://raw.githubusercontent.com/fxsound2/fxsound-app/refs/tags/v1.1.33.0/release/fxsound_setup.exe",
+  "version": "1.1.33.0",
+  "type": "exe",
+  "silent": "/exenoui /quiet /norestart"
+}
